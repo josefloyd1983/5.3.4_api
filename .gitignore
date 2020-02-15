@@ -1,0 +1,20 @@
+/java/
+# Eclipse 
+.classpath 
+.metadata 
+.project 
+.settings/ 
+build.xml 
+*.class
+# Maven 
+log/ 
+target 
+.factorypath
+# General 
+*.bak 
+*.*log* 
+.DS_Store 
+*.cmd
+.xml 
+.sha1 
+.lastUpdated
