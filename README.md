@@ -2,4 +2,5 @@
 api
 api 2
 api 1.0.3
-new 
+new
+1.2.0
