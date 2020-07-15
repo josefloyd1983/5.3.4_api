@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cl.liberty.underwriting</groupId>
 	<artifactId>administrator-mortgage-services</artifactId>
-	<version>1.6.0-SNAPSHOT</version>
+	<version>1.6.0</version>
 	<name>administrator-mortgage-services</name>
 	<description>Demo project for Spring Boot</description>
 
